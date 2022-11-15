@@ -80,6 +80,8 @@ endmodule
 ![ss2](./upcwf.png)
 
 ### TRUTH TABLE 
+![image](https://user-images.githubusercontent.com/94165108/201974004-953cb42d-da44-4a7d-88c7-1b61ada06aac.png)
+
 
 ## DOWN Counter:
 ```
@@ -102,6 +104,7 @@ endmodule
 ![ss4](./dcwf.png)
 
 ### TRUTH TABLE 
+![image](https://user-images.githubusercontent.com/94165108/201974059-a4df99d0-7b78-4dc4-b42a-1add2df003e5.png)
 
 ### RESULTS 
 Thus 4 bit up and down counters is implemented and its functionality is validated.
